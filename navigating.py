@@ -12,8 +12,8 @@ class LoginTest(unittest.TestCase):
 
     def test_login(self):
      driver = self.driver
-     facebookUsername   = "vyna28@rediffmail.com"
-     facebookPassword   = "avyukthaa"
+     facebookUsername   = "yahoo@hotmail.com"
+     facebookPassword   = "chinese"
      emailFieldID       = "email"
      passFieldID        = "pass"
      loginButtonXpath   = "//input[@value='Log In']"
