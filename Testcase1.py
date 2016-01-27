@@ -21,6 +21,4 @@ select = driver.find_element_by_xpath("/html/body/div/div/div[2]/div/div[2]/div[
 
 
 
-
-
 driver.close()
